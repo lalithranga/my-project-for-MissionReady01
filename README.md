@@ -1,6 +1,6 @@
-# My Project MissionReady01 - Environment News Site
+# My Project MissionReady01 - Demo Front Page
 
-This is a demo project for an environment-related news website. It is built using Vite, React, and Tailwind CSS as part of the **Advanced Software Course** at **Mission Ready Institute**. The website aims to provide the latest environmental news and updates from around the world.
+This is a demo front page project for an environment-related website. It is built using Vite, React, and Tailwind CSS as part of the **Advanced Software Course** at **Mission Ready Institute**. The front page is designed to showcase the latest environmental news and updates with a user-friendly interface.
 
 ## Technologies Used
 
@@ -10,11 +10,11 @@ This is a demo project for an environment-related news website. It is built usin
 
 ## Features
 
-- 🌍 Latest environmental news from various countries
-- 📰 Well-structured and easy-to-read news articles
-- 🔍 Search functionality to find relevant topics
+- 🌍 Demo layout for an environment news homepage
+- 📰 Well-structured sections for news articles
+- 🔍 Placeholder search functionality
 - 🎨 Responsive design for all devices
-- 🌱 Focus on sustainability and climate change updates
+- 🌱 Simple navigation and UI design
 
 ## Installation
 
