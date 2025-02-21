@@ -26,7 +26,7 @@ export default function Contact() {
           <p className="text-gray-600">+64 (080) 456-7890</p>
         </div>
 
-        {/* Contact Form */}
+       
         <h3 className="text-xl font-semibold text-gray-800 mb-4">Send Us a Message</h3>
         <form className="space-y-4">
           <input

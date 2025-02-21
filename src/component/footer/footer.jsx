@@ -2,15 +2,14 @@ export default function Footer() {
     return (
       <footer className="bg-gray-900 text-gray-300 py-10">
         <div className="container mx-auto px-6 grid grid-cols-1 md:grid-cols-4 gap-8">
-          {/* About Section */}
+
           <div>
             <h2 className="text-xl font-semibold text-white mb-4">About Us</h2>
             <p className="text-sm">
               We are committed to creating a sustainable future by promoting eco-friendly practices and spreading environmental awareness.
             </p>
           </div>
-          
-          {/* Quick Links */}
+   
           <div>
             <h2 className="text-xl font-semibold text-white mb-4">Quick Links</h2>
             <ul className="space-y-2">
@@ -21,15 +20,13 @@ export default function Footer() {
             </ul>
           </div>
           
-          {/* Contact Information */}
           <div>
             <h2 className="text-xl font-semibold text-white mb-4">Contact Us</h2>
             <p>Email: contact@ecosupport.org</p>
             <p>Phone: +64 456 7890</p>
             <p>Location: 48 Radley street, Woolston, Auckland</p>
           </div>
-          
-          {/* Social Media Links */}
+   
           <div>
             <h2 className="text-xl font-semibold text-white mb-4">Follow Us</h2>
             <div className="flex space-x-4">
